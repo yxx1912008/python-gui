@@ -1,0 +1,16 @@
+app:
+  title: xxx小工具
+  version: V1.0.0
+choose_env: xx业务环境
+envs:
+- name: xx安全环境
+  host: xx.xx.xx.xx
+  port: xxxx
+  appId: xxx
+  tenantId: xxx
+  isc_manager: https://xxxx:xxx/xxx/framework/desktop/index.jsp
+  cw_url: https://xxxx:xxxx/xx/xxxx
+  auth_enc: xxxx/xx/xx/xx/xx
+  auth_dec: xxxx/xx/xx/xx/xx
+  auth_ak_info: xxxx/xx/xx/xx/xx
+  auth_token_info: xxxx/xx/xx/xx/xx
